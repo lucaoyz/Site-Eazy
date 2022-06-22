@@ -834,7 +834,7 @@ input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
     background: #CFF433;
     border-color: #CFF433;
-    color: #FFFFFF;
+    color: #000;
 }
 
 .btn.btn--primary:hover,
@@ -3505,12 +3505,14 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 1200px) {
     .contact-content {
         max-width: 900px;
+        padding-left: 0px;
     }
 }
 
 @media only screen and (max-width: 1000px) {
     .contact-content {
         max-width: 700px;
+        padding-left: 0px;
     }
     .contact-primary, .contact-secondary {
         float: none;
@@ -3534,6 +3536,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 800px) {
     .contact-content h3 {
         text-align: center;
+        padding-left: 0px;
     }
 }
 
@@ -3541,6 +3544,7 @@ html.no-csstransitions .home-content__main {
     .s-contact {
         padding-top: 12rem;
         padding-bottom: 0;
+        padding-left: 0px;
     }
     .contact__line {
         height: 14.4rem;
@@ -3558,6 +3562,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 400px) {
     .contact-primary, .contact-secondary {
         padding: 0 5px;
+        
     }
 }
 
