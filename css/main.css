@@ -1479,7 +1479,7 @@ body::-webkit-scrollbar-thumb {
 
 .subhead {
     font-family: "montserrat-bold", sans-serif;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
@@ -2443,7 +2443,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-about .section-header.has-bottom-sep::before {
-    background-color: rgba(255, 255, 255, 0.25);
+    background-color: rgba(107, 104, 104, 0.425);
 }
 
 .about-desc {
