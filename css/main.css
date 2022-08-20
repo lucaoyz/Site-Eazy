@@ -1136,6 +1136,14 @@ body::-webkit-scrollbar-thumb {
     border: 3px solid #000000;  
 }
 
+/* indexEUA */
+.botao-ingles{
+    height: 21.5px;
+    width: 50px;
+    border: 1px;
+    border-radius: 0px;
+    }
+
 /* ------------------------------------------------------------------- 
  * ## alert box
  * ------------------------------------------------------------------- */
