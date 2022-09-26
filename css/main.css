@@ -2804,7 +2804,6 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-folio__thumb a::after {
-    content: "+";
     font-family: georgia, serif;
     font-size: 2.7rem;
     display: block;
